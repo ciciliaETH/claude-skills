@@ -301,10 +301,6 @@ def analyze_documentation(project_path: Path) -> Dict:
             docs["score"] += 30
             break
 
-    if (project_path / "CONTRIBUTING.md").exists():
-        docs["has_contributing"] = True
-        docs["score"] += 15
-
     license_patterns = ["LICENSE", "LICENSE.md", "LICENSE.txt"]
     for pattern in license_patterns:
         if (project_path / pattern).exists():

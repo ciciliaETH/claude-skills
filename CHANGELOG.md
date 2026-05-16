@@ -828,13 +828,6 @@ Major rewrite of existing skills following Anthropic's agent skills specificatio
 
 ## [1.0.2] - 2025-10-21
 
-### Added
-- `LICENSE` file — Official MIT License
-- `CONTRIBUTING.md` — Contribution guidelines and standards
-- `CODE_OF_CONDUCT.md` — Community standards (Contributor Covenant 2.0)
-- `SECURITY.md` — Security policy and vulnerability reporting
-- `CHANGELOG.md` — Version history tracking
-
 ### Documentation
 - Complete GitHub repository setup for open source
 - Professional community health files
@@ -953,11 +946,3 @@ Major rewrite of existing skills following Anthropic's agent skills specificatio
 
 ---
 
-[Unreleased]: https://github.com/alirezarezvani/claude-skills/compare/v2.1.2...HEAD
-[2.1.2]: https://github.com/alirezarezvani/claude-skills/compare/v2.1.1...v2.1.2
-[2.1.1]: https://github.com/alirezarezvani/claude-skills/compare/v2.0.0...v2.1.1
-[2.0.0]: https://github.com/alirezarezvani/claude-skills/compare/v1.0.2...v2.0.0
-[1.1.0]: https://github.com/alirezarezvani/claude-skills/compare/v1.0.1...v1.1.0
-[1.0.2]: https://github.com/alirezarezvani/claude-skills/compare/v1.0.1...v1.0.2
-[1.0.1]: https://github.com/alirezarezvani/claude-skills/compare/v1.0.0...v1.0.1
-[1.0.0]: https://github.com/alirezarezvani/claude-skills/releases/tag/v1.0.0

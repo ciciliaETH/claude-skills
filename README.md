@@ -353,18 +353,6 @@ Each skill is a folder with a `SKILL.md` (frontmatter + instructions), optional 
 
 ---
 
-## Contributing
-
-We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
-**Quick ideas:**
-- Add new skills in underserved domains
-- Improve existing Python tools
-- Add test coverage for scripts
-- Translate skills for non-English markets
-
----
-
 ## License
 
 MIT — see [LICENSE](LICENSE) for details.

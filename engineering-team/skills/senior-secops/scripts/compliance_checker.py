@@ -268,14 +268,6 @@ class ComplianceChecker:
         evidence = []
         status = 'failed'
 
-        doc_files = [
-            'SECURITY.md',
-            'docs/security.md',
-            'CONTRIBUTING.md',
-            'docs/security-policy.md',
-            '.github/SECURITY.md'
-        ]
-
         for doc in doc_files:
             doc_path = self.target_path / doc
             if doc_path.exists():

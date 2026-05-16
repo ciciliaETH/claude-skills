@@ -757,27 +757,6 @@ Orchestrator:
 4. User testing (if possible)
 5. Decision: Accept / Request changes / Decline
 
-**Acceptance Workflow:**
-1. Merge to `dev` branch
-2. Include in next release cycle
-3. Add contributor to CONTRIBUTORS.md
-4. Feature in release notes
-5. Monitor usage and feedback
-
-### Encouraging Contributions
-
-**Contribution Incentives:**
-- Recognition in repository README.md
-- Featured in release announcements
-- Access to early adopter community
-- Priority support for contributed skills
-
-**Contributor Resources:**
-- Complete contribution guide (CONTRIBUTING.md)
-- Skill template repository
-- Automated validation tools
-- Community Discord/Slack for support
-
 ---
 
 ## Part 9: Monitoring & Analytics

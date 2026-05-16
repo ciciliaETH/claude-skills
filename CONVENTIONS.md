@@ -2,8 +2,6 @@
 
 **Mandatory conventions for the claude-code-skills repository.** Every contributor — human or AI coding agent — must follow these rules. PRs that violate them will be closed.
 
-For contribution workflow and how to submit PRs, see [CONTRIBUTING.md](CONTRIBUTING.md).
-
 ---
 
 ## 1. Skill Structure
@@ -235,7 +233,6 @@ docs/<description>       → Documentation
 feat(engineering): add browser-automation skill
 fix(self-improving-agent): use absolute path for hooks
 improve(tdd-guide): add per-language examples
-docs: update CONTRIBUTING.md
 chore: sync codex/gemini indexes
 ```
 
