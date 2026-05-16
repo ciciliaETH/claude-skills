@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "name": "claude-code-skills",
   "description": "Production-ready skill packages for AI agents - Marketing, Engineering, Product, C-Level, PM, and RA/QM",
-  "repository": "https://github.com/alirezarezvani/claude-skills",
+  "repository": "https://github.com/ciciliaETH/claude-skills",
   "total_skills": 195,
   "skills": [
     {

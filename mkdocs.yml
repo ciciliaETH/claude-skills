@@ -2,7 +2,7 @@ site_name: Claude Code Skills & Agent Plugins
 site_url: https://alirezarezvani.github.io/claude-skills/
 site_description: "272 production-ready skills, 37 cs-* agents (incl. founder-mode C-suite: GC, CDO, CAIO, CCO, VPE + Matt Pocock-derived productivity quartet: skill-author, caveman, grill-master, handoff), 7 personas, 25 /cs:* slash commands, and an orchestration protocol for 12 AI coding tools."
 site_author: Alireza Rezvani
-repo_url: https://github.com/alirezarezvani/claude-skills
+repo_url: https://github.com/ciciliaETH/claude-skills
 repo_name: alirezarezvani/claude-skills
 edit_uri: edit/main/docs/
 copyright: "Built by Alireza Rezvani"
@@ -69,7 +69,7 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/alirezarezvani/claude-skills
+      link: https://github.com/ciciliaETH/claude-skills
       name: GitHub
     - icon: fontawesome/brands/x-twitter
       link: https://twitter.com/nginitycloud

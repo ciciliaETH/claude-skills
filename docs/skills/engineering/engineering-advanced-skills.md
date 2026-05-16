@@ -8,7 +8,7 @@ description: "25 advanced engineering agent skills and plugins for Claude Code, 
 <div class="page-meta" markdown>
 <span class="meta-badge">:material-rocket-launch: Engineering - POWERFUL</span>
 <span class="meta-badge">:material-identifier: `engineering-advanced-skills`</span>
-<span class="meta-badge">:material-github: <a href="https://github.com/alirezarezvani/claude-skills/tree/main/engineering/skills/engineering-advanced-skills/SKILL.md">Source</a></span>
+<span class="meta-badge">:material-github: <a href="https://github.com/ciciliaETH/claude-skills/tree/main/engineering/skills/engineering-advanced-skills/SKILL.md">Source</a></span>
 </div>
 
 <div class="install-banner" markdown>

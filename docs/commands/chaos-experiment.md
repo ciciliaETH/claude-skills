@@ -7,7 +7,7 @@ description: "Interactive wizard to design and validate a chaos engineering expe
 
 <div class="page-meta" markdown>
 <span class="meta-badge">:material-console: Slash Command</span>
-<span class="meta-badge">:material-github: <a href="https://github.com/alirezarezvani/claude-skills/tree/main/commands/chaos-experiment.md">Source</a></span>
+<span class="meta-badge">:material-github: <a href="https://github.com/ciciliaETH/claude-skills/tree/main/commands/chaos-experiment.md">Source</a></span>
 </div>
 
 

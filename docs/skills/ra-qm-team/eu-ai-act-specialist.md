@@ -8,7 +8,7 @@ description: "EU AI Act (Regulation (EU) 2024/1689) operational compliance for c
 <div class="page-meta" markdown>
 <span class="meta-badge">:material-shield-check-outline: Regulatory & Quality</span>
 <span class="meta-badge">:material-identifier: `eu-ai-act-specialist`</span>
-<span class="meta-badge">:material-github: <a href="https://github.com/alirezarezvani/claude-skills/tree/main/ra-qm-team/skills/eu-ai-act-specialist/SKILL.md">Source</a></span>
+<span class="meta-badge">:material-github: <a href="https://github.com/ciciliaETH/claude-skills/tree/main/ra-qm-team/skills/eu-ai-act-specialist/SKILL.md">Source</a></span>
 </div>
 
 <div class="install-banner" markdown>
@@ -185,20 +185,20 @@ python scripts/conformity_assessment_planner.py system.json
 
 ## Adjacent Skills
 
-- [`skills/gdpr-dsgvo-expert`](https://github.com/alirezarezvani/claude-skills/tree/main/ra-qm-team/skills/gdpr-dsgvo-expert) — GDPR DPIA + lawful basis (most AI systems also trigger GDPR)
-- [`compliance-team-iso42001`](https://github.com/alirezarezvani/claude-skills/tree/main/compliance-team-iso42001) — ISO 42001 AIMS (voluntary management system that satisfies parts of Article 17 QMS for providers)
-- [`skills/information-security-manager-iso27001`](https://github.com/alirezarezvani/claude-skills/tree/main/ra-qm-team/skills/information-security-manager-iso27001) — ISO 27001 for cybersecurity requirements (Article 15)
-- [`skills/risk-management-specialist`](https://github.com/alirezarezvani/claude-skills/tree/main/ra-qm-team/skills/risk-management-specialist) — ISO 14971 risk management (referenced for safety-component AI under Article 6(1))
-- [`skills/mdr-745-specialist`](https://github.com/alirezarezvani/claude-skills/tree/main/ra-qm-team/skills/mdr-745-specialist) — MDR 2017/745 (medical-device AI overlap)
-- [`../compliance-os`](https://github.com/alirezarezvani/claude-skills/tree/main/../compliance-os) — Meta-orchestrator for multi-framework programs
-- [`c-level-advisor/chief-ai-officer-advisor`](https://github.com/alirezarezvani/claude-skills/tree/main/../c-level-advisor/chief-ai-officer-advisor) — Executive AI strategy
+- [`skills/gdpr-dsgvo-expert`](https://github.com/ciciliaETH/claude-skills/tree/main/ra-qm-team/skills/gdpr-dsgvo-expert) — GDPR DPIA + lawful basis (most AI systems also trigger GDPR)
+- [`compliance-team-iso42001`](https://github.com/ciciliaETH/claude-skills/tree/main/compliance-team-iso42001) — ISO 42001 AIMS (voluntary management system that satisfies parts of Article 17 QMS for providers)
+- [`skills/information-security-manager-iso27001`](https://github.com/ciciliaETH/claude-skills/tree/main/ra-qm-team/skills/information-security-manager-iso27001) — ISO 27001 for cybersecurity requirements (Article 15)
+- [`skills/risk-management-specialist`](https://github.com/ciciliaETH/claude-skills/tree/main/ra-qm-team/skills/risk-management-specialist) — ISO 14971 risk management (referenced for safety-component AI under Article 6(1))
+- [`skills/mdr-745-specialist`](https://github.com/ciciliaETH/claude-skills/tree/main/ra-qm-team/skills/mdr-745-specialist) — MDR 2017/745 (medical-device AI overlap)
+- [`../compliance-os`](https://github.com/ciciliaETH/claude-skills/tree/main/../compliance-os) — Meta-orchestrator for multi-framework programs
+- [`c-level-advisor/chief-ai-officer-advisor`](https://github.com/ciciliaETH/claude-skills/tree/main/../c-level-advisor/chief-ai-officer-advisor) — Executive AI strategy
 
 ## References
 
-- [eu_ai_act_titles.md](https://github.com/alirezarezvani/claude-skills/tree/main/ra-qm-team/skills/eu-ai-act-specialist/references/eu_ai_act_titles.md) — Titles I–XII Article-by-Article walkthrough with deployer/provider/importer/distributor obligation breakdown
-- [high_risk_systems_annex_iii.md](https://github.com/alirezarezvani/claude-skills/tree/main/ra-qm-team/skills/eu-ai-act-specialist/references/high_risk_systems_annex_iii.md) — Annex III 8 categories detailed + Article 6(2)–(3) interaction + carve-out test
-- [gpai_obligations.md](https://github.com/alirezarezvani/claude-skills/tree/main/ra-qm-team/skills/eu-ai-act-specialist/references/gpai_obligations.md) — Articles 51–55 GPAI track + systemic-risk threshold + transparency rules + Code of Practice status
-- [cross_framework_mapping_ai_act.md](https://github.com/alirezarezvani/claude-skills/tree/main/ra-qm-team/skills/eu-ai-act-specialist/references/cross_framework_mapping_ai_act.md) — AI Act ↔ ISO 42001 ↔ NIST AI RMF ↔ GDPR control-level mapping
+- [eu_ai_act_titles.md](https://github.com/ciciliaETH/claude-skills/tree/main/ra-qm-team/skills/eu-ai-act-specialist/references/eu_ai_act_titles.md) — Titles I–XII Article-by-Article walkthrough with deployer/provider/importer/distributor obligation breakdown
+- [high_risk_systems_annex_iii.md](https://github.com/ciciliaETH/claude-skills/tree/main/ra-qm-team/skills/eu-ai-act-specialist/references/high_risk_systems_annex_iii.md) — Annex III 8 categories detailed + Article 6(2)–(3) interaction + carve-out test
+- [gpai_obligations.md](https://github.com/ciciliaETH/claude-skills/tree/main/ra-qm-team/skills/eu-ai-act-specialist/references/gpai_obligations.md) — Articles 51–55 GPAI track + systemic-risk threshold + transparency rules + Code of Practice status
+- [cross_framework_mapping_ai_act.md](https://github.com/ciciliaETH/claude-skills/tree/main/ra-qm-team/skills/eu-ai-act-specialist/references/cross_framework_mapping_ai_act.md) — AI Act ↔ ISO 42001 ↔ NIST AI RMF ↔ GDPR control-level mapping
 
 ---
 

@@ -5,8 +5,8 @@
     "url": "https://alirezarezvani.com"
   },
   "description": "272 production-ready skill packages for Claude AI across 9 domains: engineering advanced (71 unique — incl. 4 Matt Pocock-derived productivity skills with validation wrappers), engineering core (51), marketing (45), c-level advisory (34), product (17), regulatory/QMS (14), project management (9), business growth (5), and finance (4). Includes 385 Python tools, 519 reference documents, 31 agents (24 cs-* + 7 personas), and 58 slash commands.",
-  "homepage": "https://github.com/alirezarezvani/claude-skills",
-  "repository": "https://github.com/alirezarezvani/claude-skills",
+  "homepage": "https://github.com/ciciliaETH/claude-skills",
+  "repository": "https://github.com/ciciliaETH/claude-skills",
   "metadata": {
     "description": "272 production-ready skill packages across 9 domains with 385 Python tools, 519 reference documents, 31 agents (24 cs-* + 7 personas), and 58 slash commands. Compatible with Claude Code, Codex CLI, Hermes Agent, Cursor, Antigravity, OpenCode, Gemini CLI, and OpenClaw.",
     "version": "2.6.1"

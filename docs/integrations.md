@@ -82,7 +82,7 @@ All 246 skills in this repository work natively with **8 AI coding tools** beyon
 ### 1. Convert
 
 ```bash
-git clone https://github.com/alirezarezvani/claude-skills.git
+git clone https://github.com/ciciliaETH/claude-skills.git
 cd claude-skills
 
 # Convert all skills for all tools (~15 seconds)
@@ -546,7 +546,7 @@ Unlike other tools that need format conversion, Hermes reads `SKILL.md` files na
 === "Sync script (recommended)"
 
     ```bash
-    git clone https://github.com/alirezarezvani/claude-skills.git
+    git clone https://github.com/ciciliaETH/claude-skills.git
     cd claude-skills
     python scripts/sync-hermes-skills.py --verbose
     ```

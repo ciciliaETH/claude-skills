@@ -8,7 +8,7 @@ description: "Financial analyst agent skill and plugin for Claude Code, Codex, G
 <div class="page-meta" markdown>
 <span class="meta-badge">:material-calculator-variant: Finance</span>
 <span class="meta-badge">:material-identifier: `finance-skills`</span>
-<span class="meta-badge">:material-github: <a href="https://github.com/alirezarezvani/claude-skills/tree/main/finance/skills/finance-skills/SKILL.md">Source</a></span>
+<span class="meta-badge">:material-github: <a href="https://github.com/ciciliaETH/claude-skills/tree/main/finance/skills/finance-skills/SKILL.md">Source</a></span>
 </div>
 
 <div class="install-banner" markdown>

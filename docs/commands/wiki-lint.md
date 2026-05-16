@@ -7,7 +7,7 @@ description: "Run a health check on the LLM Wiki vault — mechanical checks (or
 
 <div class="page-meta" markdown>
 <span class="meta-badge">:material-console: Slash Command</span>
-<span class="meta-badge">:material-github: <a href="https://github.com/alirezarezvani/claude-skills/tree/main/commands/wiki-lint.md">Source</a></span>
+<span class="meta-badge">:material-github: <a href="https://github.com/ciciliaETH/claude-skills/tree/main/commands/wiki-lint.md">Source</a></span>
 </div>
 
 

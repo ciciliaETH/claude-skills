@@ -118,4 +118,4 @@ Open items: [list]
 Switching to: [persona] + [skills]
 ```
 
-[:octicons-arrow-right-24: Full orchestration protocol](https://github.com/alirezarezvani/claude-skills/blob/main/orchestration/ORCHESTRATION.md)
+[:octicons-arrow-right-24: Full orchestration protocol](https://github.com/ciciliaETH/claude-skills/blob/main/orchestration/ORCHESTRATION.md)

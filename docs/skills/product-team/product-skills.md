@@ -8,7 +8,7 @@ description: "10 product agent skills and plugins for Claude Code, Codex, Gemini
 <div class="page-meta" markdown>
 <span class="meta-badge">:material-lightbulb-outline: Product</span>
 <span class="meta-badge">:material-identifier: `product-skills`</span>
-<span class="meta-badge">:material-github: <a href="https://github.com/alirezarezvani/claude-skills/tree/main/product-team/skills/product-skills/SKILL.md">Source</a></span>
+<span class="meta-badge">:material-github: <a href="https://github.com/ciciliaETH/claude-skills/tree/main/product-team/skills/product-skills/SKILL.md">Source</a></span>
 </div>
 
 <div class="install-banner" markdown>

@@ -8,7 +8,7 @@ description: "/cs:cpo-review <plan> — JTBD-driven interrogation of product roa
 <div class="page-meta" markdown>
 <span class="meta-badge">:material-account-tie: C-Level Advisory</span>
 <span class="meta-badge">:material-identifier: `cpo-review`</span>
-<span class="meta-badge">:material-github: <a href="https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/c-level-agents/skills/cpo-review/SKILL.md">Source</a></span>
+<span class="meta-badge">:material-github: <a href="https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/c-level-agents/skills/cpo-review/SKILL.md">Source</a></span>
 </div>
 
 <div class="install-banner" markdown>
@@ -112,9 +112,9 @@ python ../../../../product-team/product-manager-toolkit/scripts/rice_prioritizer
 
 ## Related
 
-- Agent: [`cs-cpo-advisor`](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/c-level-agents/agents/cs-cpo-advisor.md)
-- Skill: [`cpo-advisor`](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/cpo-advisor/SKILL.md)
-- Execution: [`product-team/product-manager-toolkit`](https://github.com/alirezarezvani/claude-skills/tree/main/product-team/product-manager-toolkit)
+- Agent: [`cs-cpo-advisor`](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/c-level-agents/agents/cs-cpo-advisor.md)
+- Skill: [`cpo-advisor`](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/cpo-advisor/SKILL.md)
+- Execution: [`product-team/product-manager-toolkit`](https://github.com/ciciliaETH/claude-skills/tree/main/product-team/product-manager-toolkit)
 
 ---
 

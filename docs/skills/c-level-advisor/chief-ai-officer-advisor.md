@@ -8,7 +8,7 @@ description: "Chief AI Officer advisory for startups: model build-vs-buy decisio
 <div class="page-meta" markdown>
 <span class="meta-badge">:material-account-tie: C-Level Advisory</span>
 <span class="meta-badge">:material-identifier: `chief-ai-officer-advisor`</span>
-<span class="meta-badge">:material-github: <a href="https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/chief-ai-officer-advisor/SKILL.md">Source</a></span>
+<span class="meta-badge">:material-github: <a href="https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/chief-ai-officer-advisor/SKILL.md">Source</a></span>
 </div>
 
 <div class="install-banner" markdown>
@@ -212,24 +212,24 @@ python scripts/ai_cost_economics.py workload.json
 
 ## Adjacent Skills
 
-- [`skills/chief-data-officer-advisor`](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/chief-data-officer-advisor) — Training data rights, data product strategy (chains directly to model decisions)
-- [`skills/cto-advisor`](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/cto-advisor) — Architecture capacity, scaling cliffs (esp. for self-hosted inference)
-- [`skills/ciso-advisor`](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/ciso-advisor) — Threat modeling for AI (prompt injection, jailbreak, training data poisoning)
-- [`skills/general-counsel-advisor`](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/general-counsel-advisor) — AI contracts (vendor liability, output ownership, training-data licensing)
-- [`skills/cfo-advisor`](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/cfo-advisor) — Build-vs-buy TCO math, multi-year vendor commitments
-- [`skills/chro-advisor`](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/chro-advisor) — AI team hiring + comp
-- [`engineering/rag-architect`](https://github.com/alirezarezvani/claude-skills/tree/main/engineering/rag-architect) — Tactical RAG implementation
-- [`engineering/agent-designer`](https://github.com/alirezarezvani/claude-skills/tree/main/engineering/agent-designer) — Tactical agent architecture
-- [`engineering/prompt-governance`](https://github.com/alirezarezvani/claude-skills/tree/main/engineering/prompt-governance) — Tactical prompt management
-- [`engineering/self-eval`](https://github.com/alirezarezvani/claude-skills/tree/main/engineering/self-eval) — Tactical eval infrastructure
-- [`engineering/llm-cost-optimizer`](https://github.com/alirezarezvani/claude-skills/tree/main/engineering/llm-cost-optimizer) — Tactical inference cost optimization
+- [`skills/chief-data-officer-advisor`](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/chief-data-officer-advisor) — Training data rights, data product strategy (chains directly to model decisions)
+- [`skills/cto-advisor`](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/cto-advisor) — Architecture capacity, scaling cliffs (esp. for self-hosted inference)
+- [`skills/ciso-advisor`](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/ciso-advisor) — Threat modeling for AI (prompt injection, jailbreak, training data poisoning)
+- [`skills/general-counsel-advisor`](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/general-counsel-advisor) — AI contracts (vendor liability, output ownership, training-data licensing)
+- [`skills/cfo-advisor`](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/cfo-advisor) — Build-vs-buy TCO math, multi-year vendor commitments
+- [`skills/chro-advisor`](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/chro-advisor) — AI team hiring + comp
+- [`engineering/rag-architect`](https://github.com/ciciliaETH/claude-skills/tree/main/engineering/rag-architect) — Tactical RAG implementation
+- [`engineering/agent-designer`](https://github.com/ciciliaETH/claude-skills/tree/main/engineering/agent-designer) — Tactical agent architecture
+- [`engineering/prompt-governance`](https://github.com/ciciliaETH/claude-skills/tree/main/engineering/prompt-governance) — Tactical prompt management
+- [`engineering/self-eval`](https://github.com/ciciliaETH/claude-skills/tree/main/engineering/self-eval) — Tactical eval infrastructure
+- [`engineering/llm-cost-optimizer`](https://github.com/ciciliaETH/claude-skills/tree/main/engineering/llm-cost-optimizer) — Tactical inference cost optimization
 
 ## References
 
-- [model_buildvsbuy_strategy.md](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/chief-ai-officer-advisor/references/model_buildvsbuy_strategy.md) — Full decision tree + 3-year TCO components + when each path fails
-- [ai_risk_governance.md](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/chief-ai-officer-advisor/references/ai_risk_governance.md) — EU AI Act + NIST AI RMF + US state patchwork + industry overlays + governance program
-- [ai_cost_economics.md](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/chief-ai-officer-advisor/references/ai_cost_economics.md) — API pricing 2026 + GPU rental economics + utilization realities + migration cost
-- [ai_team_org_evolution.md](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/chief-ai-officer-advisor/references/ai_team_org_evolution.md) — Stage-to-role map + role definitions (AI engineer ≠ ML engineer ≠ scientist) + anti-patterns
+- [model_buildvsbuy_strategy.md](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/chief-ai-officer-advisor/references/model_buildvsbuy_strategy.md) — Full decision tree + 3-year TCO components + when each path fails
+- [ai_risk_governance.md](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/chief-ai-officer-advisor/references/ai_risk_governance.md) — EU AI Act + NIST AI RMF + US state patchwork + industry overlays + governance program
+- [ai_cost_economics.md](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/chief-ai-officer-advisor/references/ai_cost_economics.md) — API pricing 2026 + GPU rental economics + utilization realities + migration cost
+- [ai_team_org_evolution.md](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/chief-ai-officer-advisor/references/ai_team_org_evolution.md) — Stage-to-role map + role definitions (AI engineer ≠ ML engineer ≠ scientist) + anti-patterns
 
 ---
 

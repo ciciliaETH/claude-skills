@@ -44,7 +44,7 @@ This secret is already set up for Claude Code reviews.
 
 **Add to Repository:**
 
-1. Go to: https://github.com/alirezarezvani/claude-skills/settings/secrets/actions
+1. Go to: https://github.com/ciciliaETH/claude-skills/settings/secrets/actions
 2. Click "New repository secret"
 3. **Name**: `PROJECTS_TOKEN`
 4. **Value**: [Paste your token]

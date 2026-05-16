@@ -8,7 +8,7 @@ description: "ISO/IEC 42001:2023 AI Management System (AIMS) specialist for comp
 <div class="page-meta" markdown>
 <span class="meta-badge">:material-shield-check-outline: Regulatory & Quality</span>
 <span class="meta-badge">:material-identifier: `iso42001-specialist`</span>
-<span class="meta-badge">:material-github: <a href="https://github.com/alirezarezvani/claude-skills/tree/main/ra-qm-team/skills/iso42001-specialist/SKILL.md">Source</a></span>
+<span class="meta-badge">:material-github: <a href="https://github.com/ciciliaETH/claude-skills/tree/main/ra-qm-team/skills/iso42001-specialist/SKILL.md">Source</a></span>
 </div>
 
 <div class="install-banner" markdown>
@@ -175,21 +175,21 @@ python scripts/aims_audit_scheduler.py audit_scope.json
 
 ## Adjacent Skills
 
-- [`skills/information-security-manager-iso27001`](https://github.com/alirezarezvani/claude-skills/tree/main/ra-qm-team/skills/information-security-manager-iso27001) — ISO 27001 ISMS implementation (many controls reusable for AIMS A.7 data controls)
-- [`skills/quality-manager-qms-iso13485`](https://github.com/alirezarezvani/claude-skills/tree/main/ra-qm-team/skills/quality-manager-qms-iso13485) — ISO 13485 QMS (provides CAPA + management-review machinery the AIMS reuses)
-- [`skills/gdpr-dsgvo-expert`](https://github.com/alirezarezvani/claude-skills/tree/main/ra-qm-team/skills/gdpr-dsgvo-expert) — GDPR DPIA process (input to AIMS A.5 impact assessment for personal-data systems)
-- [`skills/isms-audit-expert`](https://github.com/alirezarezvani/claude-skills/tree/main/ra-qm-team/skills/isms-audit-expert) — ISO 27001 internal audit pattern (the audit scheduler mirrors this for AIMS)
-- [`skills/soc2-compliance`](https://github.com/alirezarezvani/claude-skills/tree/main/ra-qm-team/skills/soc2-compliance) — SOC 2 trust services (reusable controls for AIMS A.10 third-party relationships)
-- [`compliance-team-eu-ai-act`](https://github.com/alirezarezvani/claude-skills/tree/main/compliance-team-eu-ai-act) — EU AI Act Article-level compliance (binding regulation companion to voluntary 42001)
-- [`../compliance-os`](https://github.com/alirezarezvani/claude-skills/tree/main/../compliance-os) — Meta-orchestrator for multi-framework programs (run AIMS as one framework among 9)
-- [`c-level-advisor/chief-ai-officer-advisor`](https://github.com/alirezarezvani/claude-skills/tree/main/../c-level-advisor/chief-ai-officer-advisor) — Executive AI strategy (build-vs-buy, cost economics — different audience)
+- [`skills/information-security-manager-iso27001`](https://github.com/ciciliaETH/claude-skills/tree/main/ra-qm-team/skills/information-security-manager-iso27001) — ISO 27001 ISMS implementation (many controls reusable for AIMS A.7 data controls)
+- [`skills/quality-manager-qms-iso13485`](https://github.com/ciciliaETH/claude-skills/tree/main/ra-qm-team/skills/quality-manager-qms-iso13485) — ISO 13485 QMS (provides CAPA + management-review machinery the AIMS reuses)
+- [`skills/gdpr-dsgvo-expert`](https://github.com/ciciliaETH/claude-skills/tree/main/ra-qm-team/skills/gdpr-dsgvo-expert) — GDPR DPIA process (input to AIMS A.5 impact assessment for personal-data systems)
+- [`skills/isms-audit-expert`](https://github.com/ciciliaETH/claude-skills/tree/main/ra-qm-team/skills/isms-audit-expert) — ISO 27001 internal audit pattern (the audit scheduler mirrors this for AIMS)
+- [`skills/soc2-compliance`](https://github.com/ciciliaETH/claude-skills/tree/main/ra-qm-team/skills/soc2-compliance) — SOC 2 trust services (reusable controls for AIMS A.10 third-party relationships)
+- [`compliance-team-eu-ai-act`](https://github.com/ciciliaETH/claude-skills/tree/main/compliance-team-eu-ai-act) — EU AI Act Article-level compliance (binding regulation companion to voluntary 42001)
+- [`../compliance-os`](https://github.com/ciciliaETH/claude-skills/tree/main/../compliance-os) — Meta-orchestrator for multi-framework programs (run AIMS as one framework among 9)
+- [`c-level-advisor/chief-ai-officer-advisor`](https://github.com/ciciliaETH/claude-skills/tree/main/../c-level-advisor/chief-ai-officer-advisor) — Executive AI strategy (build-vs-buy, cost economics — different audience)
 
 ## References
 
-- [iso42001_clauses.md](https://github.com/alirezarezvani/claude-skills/tree/main/ra-qm-team/skills/iso42001-specialist/references/iso42001_clauses.md) — Clauses 4–10 walkthrough with audit evidence expectations, common gaps, and reusable artifacts from ISO 27001/13485
-- [aims_controls_annex_a.md](https://github.com/alirezarezvani/claude-skills/tree/main/ra-qm-team/skills/iso42001-specialist/references/aims_controls_annex_a.md) — All 38 Annex A controls (A.2–A.10) with implementation guidance, audit evidence, and severity of failure
-- [aims_implementation_guide.md](https://github.com/alirezarezvani/claude-skills/tree/main/ra-qm-team/skills/iso42001-specialist/references/aims_implementation_guide.md) — 3-year maturity model (establish → certify → continually improve), rollout sequencing, integration with existing ISMS/QMS programs
-- [cross_framework_mapping_ai.md](https://github.com/alirezarezvani/claude-skills/tree/main/ra-qm-team/skills/iso42001-specialist/references/cross_framework_mapping_ai.md) — ISO 42001 ↔ EU AI Act ↔ NIST AI RMF ↔ ISO 23894 ↔ ISO 38507 ↔ ISO 27001 control-level mapping with mapping-confidence ratings
+- [iso42001_clauses.md](https://github.com/ciciliaETH/claude-skills/tree/main/ra-qm-team/skills/iso42001-specialist/references/iso42001_clauses.md) — Clauses 4–10 walkthrough with audit evidence expectations, common gaps, and reusable artifacts from ISO 27001/13485
+- [aims_controls_annex_a.md](https://github.com/ciciliaETH/claude-skills/tree/main/ra-qm-team/skills/iso42001-specialist/references/aims_controls_annex_a.md) — All 38 Annex A controls (A.2–A.10) with implementation guidance, audit evidence, and severity of failure
+- [aims_implementation_guide.md](https://github.com/ciciliaETH/claude-skills/tree/main/ra-qm-team/skills/iso42001-specialist/references/aims_implementation_guide.md) — 3-year maturity model (establish → certify → continually improve), rollout sequencing, integration with existing ISMS/QMS programs
+- [cross_framework_mapping_ai.md](https://github.com/ciciliaETH/claude-skills/tree/main/ra-qm-team/skills/iso42001-specialist/references/cross_framework_mapping_ai.md) — ISO 42001 ↔ EU AI Act ↔ NIST AI RMF ↔ ISO 23894 ↔ ISO 38507 ↔ ISO 27001 control-level mapping with mapping-confidence ratings
 
 ---
 

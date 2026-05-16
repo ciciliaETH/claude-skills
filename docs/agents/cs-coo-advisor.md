@@ -8,7 +8,7 @@ description: "Execution-OS COO advisor for operating cadence, OKRs, scorecards, 
 <div class="page-meta" markdown>
 <span class="meta-badge">:material-robot: Agent</span>
 <span class="meta-badge">:material-account-tie: C-Level Advisory</span>
-<span class="meta-badge">:material-github: <a href="https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/c-level-agents/agents/cs-coo-advisor.md">Source</a></span>
+<span class="meta-badge">:material-github: <a href="https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/c-level-agents/agents/cs-coo-advisor.md">Source</a></span>
 </div>
 
 
@@ -28,28 +28,28 @@ Pairs with `cs-cfo-advisor` (finance cadence), `cs-cro-advisor` (revenue cadence
 
 ## Skill Integration
 
-**Skill Location:** [`skills/coo-advisor`](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/coo-advisor)
+**Skill Location:** [`skills/coo-advisor`](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/coo-advisor)
 
 ### Python Tools
 
 1. **Ops Efficiency Analyzer**
-   - Path: [`scripts/ops_efficiency_analyzer.py`](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/coo-advisor/scripts/ops_efficiency_analyzer.py)
+   - Path: [`scripts/ops_efficiency_analyzer.py`](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/coo-advisor/scripts/ops_efficiency_analyzer.py)
    - Process throughput, cycle time, error rate, automation candidates
 
 2. **OKR Tracker**
-   - Path: [`scripts/okr_tracker.py`](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/coo-advisor/scripts/okr_tracker.py)
+   - Path: [`scripts/okr_tracker.py`](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/coo-advisor/scripts/okr_tracker.py)
    - Quarter-to-date OKR progress, leading/lagging indicators, on-track / at-risk / off-track
 
 ### Knowledge Bases
 
-- [`references/operating_cadence.md`](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/coo-advisor/references/operating_cadence.md) — weekly/monthly/quarterly rhythm, meeting design
-- [`references/okr_execution.md`](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/coo-advisor/references/okr_execution.md) — OKR design, scoring, cascading
-- [`references/scaling_playbooks.md`](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/coo-advisor/references/scaling_playbooks.md) — 1-10, 10-100, 100-1000 transitions
+- [`references/operating_cadence.md`](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/coo-advisor/references/operating_cadence.md) — weekly/monthly/quarterly rhythm, meeting design
+- [`references/okr_execution.md`](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/coo-advisor/references/okr_execution.md) — OKR design, scoring, cascading
+- [`references/scaling_playbooks.md`](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/coo-advisor/references/scaling_playbooks.md) — 1-10, 10-100, 100-1000 transitions
 
 ### Adjacent Skills
 
-- [`skills/company-os`](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/company-os) — EOS / Scaling Up / OKR selection
-- [`skills/strategic-alignment`](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/strategic-alignment) — strategy cascade & silo detection
+- [`skills/company-os`](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/company-os) — EOS / Scaling Up / OKR selection
+- [`skills/strategic-alignment`](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/strategic-alignment) — strategy cascade & silo detection
 
 ## Workflows
 
@@ -79,7 +79,7 @@ python ../../skills/coo-advisor/scripts/okr_tracker.py
 **Goal:** Pick EOS, Scaling Up, or OKR for the company.
 
 **Steps:**
-1. Reference [`company-os/SKILL.md`](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/company-os/SKILL.md) for selection criteria
+1. Reference [`company-os/SKILL.md`](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/company-os/SKILL.md) for selection criteria
 2. Reference `scaling_playbooks.md` for stage fit
 3. Map current pain points to which OS solves them
 4. Output: recommended OS, 90-day rollout, success metrics
@@ -116,12 +116,12 @@ echo "Reference: ../../skills/coo-advisor/references/operating_cadence.md"
 - [cs-cfo-advisor](cs-cfo-advisor.md) — finance cadence
 - [cs-cro-advisor](cs-cro-advisor.md) — revenue cadence
 - [cs-chief-of-staff](cs-chief-of-staff.md) — decision logging
-- [cs-engineering-lead](https://github.com/alirezarezvani/claude-skills/tree/main/../agents/engineering-team/cs-engineering-lead.md) — eng ops
+- [cs-engineering-lead](https://github.com/ciciliaETH/claude-skills/tree/main/../agents/engineering-team/cs-engineering-lead.md) — eng ops
 
 ## References
 
-- Skill: [../../skills/coo-advisor/SKILL.md](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/coo-advisor/SKILL.md)
-- Voice spec: [../references/persona-voices.md](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/c-level-agents/references/persona-voices.md)
+- Skill: [../../skills/coo-advisor/SKILL.md](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/coo-advisor/SKILL.md)
+- Voice spec: [../references/persona-voices.md](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/c-level-agents/references/persona-voices.md)
 
 ---
 

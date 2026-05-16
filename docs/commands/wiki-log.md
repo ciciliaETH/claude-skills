@@ -7,7 +7,7 @@ description: "Show recent entries from the LLM Wiki log (wiki/log.md). Uses the 
 
 <div class="page-meta" markdown>
 <span class="meta-badge">:material-console: Slash Command</span>
-<span class="meta-badge">:material-github: <a href="https://github.com/alirezarezvani/claude-skills/tree/main/commands/wiki-log.md">Source</a></span>
+<span class="meta-badge">:material-github: <a href="https://github.com/ciciliaETH/claude-skills/tree/main/commands/wiki-log.md">Source</a></span>
 </div>
 
 

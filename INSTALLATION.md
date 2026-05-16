@@ -40,7 +40,7 @@ Native integration with automatic updates and version management.
 npx agent-skills-cli add alirezarezvani/claude-skills --agent codex
 
 # Option 2: Direct installation script
-git clone https://github.com/alirezarezvani/claude-skills.git
+git clone https://github.com/ciciliaETH/claude-skills.git
 cd claude-skills
 ./scripts/codex-install.sh
 ```
@@ -49,7 +49,7 @@ cd claude-skills
 
 ```bash
 # Setup script for Gemini CLI
-git clone https://github.com/alirezarezvani/claude-skills.git
+git clone https://github.com/ciciliaETH/claude-skills.git
 cd claude-skills
 ./scripts/gemini-install.sh
 ```
@@ -65,7 +65,7 @@ Skills install to `~/.codex/skills/`. See [OpenAI Codex Installation](#openai-co
 clawhub install alirezarezvani/claude-skills
 
 # Or manual installation
-git clone https://github.com/alirezarezvani/claude-skills.git
+git clone https://github.com/ciciliaETH/claude-skills.git
 cp -r claude-skills/engineering-team ~/.openclaw/skills/
 ```
 
@@ -386,7 +386,7 @@ For development, customization, or offline use:
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/alirezarezvani/claude-skills.git
+git clone https://github.com/ciciliaETH/claude-skills.git
 cd claude-skills
 ```
 
@@ -543,7 +543,7 @@ Note: The older `ai-agent-skills` package may not support bundle installation. U
 
 ```bash
 # Check network
-curl https://github.com/alirezarezvani/claude-skills
+curl https://github.com/ciciliaETH/claude-skills
 
 # Check write permissions
 ls -la ~/.claude/
@@ -680,7 +680,7 @@ Gemini CLI users can install skills using the setup script below. This repositor
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/alirezarezvani/claude-skills.git
+    git clone https://github.com/ciciliaETH/claude-skills.git
     cd claude-skills
     ```
 
@@ -743,7 +743,7 @@ clawhub install alirezarezvani/claude-skills/engineering-team/senior-frontend
 
 ```bash
 # Clone the repository
-git clone https://github.com/alirezarezvani/claude-skills.git
+git clone https://github.com/ciciliaETH/claude-skills.git
 cd claude-skills
 
 # Copy a skill to your OpenClaw skills directory
@@ -826,7 +826,7 @@ For manual installation using the provided scripts:
 **macOS/Linux:**
 ```bash
 # Clone repository
-git clone https://github.com/alirezarezvani/claude-skills.git
+git clone https://github.com/ciciliaETH/claude-skills.git
 cd claude-skills
 
 # Generate symlinks (if not already present)
@@ -849,7 +849,7 @@ python3 scripts/sync-codex-skills.py
 **Windows:**
 ```cmd
 REM Clone repository
-git clone https://github.com/alirezarezvani/claude-skills.git
+git clone https://github.com/ciciliaETH/claude-skills.git
 cd claude-skills
 
 REM Generate structure (if not already present)
@@ -869,7 +869,7 @@ scripts\codex-install.bat --list
 
 ```bash
 # Clone repository
-git clone https://github.com/alirezarezvani/claude-skills.git
+git clone https://github.com/ciciliaETH/claude-skills.git
 cd claude-skills
 
 # Copy skills (following symlinks) to Codex directory
@@ -932,7 +932,7 @@ See `.codex/skills-index.json` for the complete manifest with descriptions.
 **Installation Issues?**
 - Check [Troubleshooting](#troubleshooting) section above
 - Review [Agent Skills CLI documentation](https://github.com/Karanjot786/agent-skills-cli)
-- Open issue: https://github.com/alirezarezvani/claude-skills/issues
+- Open issue: https://github.com/ciciliaETH/claude-skills/issues
 
 **Feature Requests:**
 - Submit via GitHub Issues with `enhancement` label

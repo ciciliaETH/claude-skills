@@ -8,7 +8,7 @@ description: "12 regulatory & QM agent skills and plugins for Claude Code, Codex
 <div class="page-meta" markdown>
 <span class="meta-badge">:material-shield-check-outline: Regulatory & Quality</span>
 <span class="meta-badge">:material-identifier: `ra-qm-skills`</span>
-<span class="meta-badge">:material-github: <a href="https://github.com/alirezarezvani/claude-skills/tree/main/ra-qm-team/skills/ra-qm-skills/SKILL.md">Source</a></span>
+<span class="meta-badge">:material-github: <a href="https://github.com/ciciliaETH/claude-skills/tree/main/ra-qm-team/skills/ra-qm-skills/SKILL.md">Source</a></span>
 </div>
 
 <div class="install-banner" markdown>

@@ -8,7 +8,7 @@ description: "Chief Data Officer advisory for startups: AI training data rights 
 <div class="page-meta" markdown>
 <span class="meta-badge">:material-account-tie: C-Level Advisory</span>
 <span class="meta-badge">:material-identifier: `chief-data-officer-advisor`</span>
-<span class="meta-badge">:material-github: <a href="https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/chief-data-officer-advisor/SKILL.md">Source</a></span>
+<span class="meta-badge">:material-github: <a href="https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/chief-data-officer-advisor/SKILL.md">Source</a></span>
 </div>
 
 <div class="install-banner" markdown>
@@ -184,21 +184,21 @@ python scripts/data_product_strategy_picker.py profile.json
 
 ## Adjacent Skills
 
-- [`skills/cto-advisor`](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/cto-advisor) — architecture capacity, scaling cliffs
-- [`skills/ciso-advisor`](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/ciso-advisor) — data security, threat modeling for productized data
-- [`skills/general-counsel-advisor`](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/general-counsel-advisor) — contractual constraints, DPA, training-data rights
-- [`skills/cfo-advisor`](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/cfo-advisor) — build-vs-buy TCO, M&A valuation math
-- [`skills/chro-advisor`](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/chro-advisor) — data team hiring, leveling, comp
-- [`engineering/database-designer`](https://github.com/alirezarezvani/claude-skills/tree/main/engineering/database-designer) — tactical schema design
-- [`engineering/rag-architect`](https://github.com/alirezarezvani/claude-skills/tree/main/engineering/rag-architect) — tactical AI/RAG implementation
-- [`engineering/llm-cost-optimizer`](https://github.com/alirezarezvani/claude-skills/tree/main/engineering/llm-cost-optimizer) — model cost management
+- [`skills/cto-advisor`](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/cto-advisor) — architecture capacity, scaling cliffs
+- [`skills/ciso-advisor`](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/ciso-advisor) — data security, threat modeling for productized data
+- [`skills/general-counsel-advisor`](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/general-counsel-advisor) — contractual constraints, DPA, training-data rights
+- [`skills/cfo-advisor`](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/cfo-advisor) — build-vs-buy TCO, M&A valuation math
+- [`skills/chro-advisor`](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/chro-advisor) — data team hiring, leveling, comp
+- [`engineering/database-designer`](https://github.com/ciciliaETH/claude-skills/tree/main/engineering/database-designer) — tactical schema design
+- [`engineering/rag-architect`](https://github.com/ciciliaETH/claude-skills/tree/main/engineering/rag-architect) — tactical AI/RAG implementation
+- [`engineering/llm-cost-optimizer`](https://github.com/ciciliaETH/claude-skills/tree/main/engineering/llm-cost-optimizer) — model cost management
 
 ## References
 
-- [ai_training_data_rights.md](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/chief-data-officer-advisor/references/ai_training_data_rights.md) — The training-rights matrix + GDPR Art. 6 / EU AI Act decision tree
-- [data_product_strategy.md](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/chief-data-officer-advisor/references/data_product_strategy.md) — Warehouse / lakehouse / mesh kill criteria + build-vs-buy decision tree
-- [customer_data_as_asset.md](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/chief-data-officer-advisor/references/customer_data_as_asset.md) — Valuation framework + M&A diligence prep + productization paths
-- [data_team_org_evolution.md](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/chief-data-officer-advisor/references/data_team_org_evolution.md) — Stage-to-role map + centralize-vs-embed trigger
+- [ai_training_data_rights.md](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/chief-data-officer-advisor/references/ai_training_data_rights.md) — The training-rights matrix + GDPR Art. 6 / EU AI Act decision tree
+- [data_product_strategy.md](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/chief-data-officer-advisor/references/data_product_strategy.md) — Warehouse / lakehouse / mesh kill criteria + build-vs-buy decision tree
+- [customer_data_as_asset.md](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/chief-data-officer-advisor/references/customer_data_as_asset.md) — Valuation framework + M&A diligence prep + productization paths
+- [data_team_org_evolution.md](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/chief-data-officer-advisor/references/data_team_org_evolution.md) — Stage-to-role map + centralize-vs-embed trigger
 
 ---
 

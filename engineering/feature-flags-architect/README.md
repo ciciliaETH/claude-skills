@@ -20,7 +20,7 @@ Most teams treat flags as throwaway `if`-statements. This skill treats them as a
 /plugin install feature-flags-architect
 
 # Or clone the repo
-git clone https://github.com/alirezarezvani/claude-skills.git
+git clone https://github.com/ciciliaETH/claude-skills.git
 cd claude-skills/engineering/feature-flags-architect
 ```
 

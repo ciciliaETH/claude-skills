@@ -8,7 +8,7 @@ description: "VP of Engineering advisory for startups: delivery throughput (DORA
 <div class="page-meta" markdown>
 <span class="meta-badge">:material-account-tie: C-Level Advisory</span>
 <span class="meta-badge">:material-identifier: `vpe-advisor`</span>
-<span class="meta-badge">:material-github: <a href="https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/vpe-advisor/SKILL.md">Source</a></span>
+<span class="meta-badge">:material-github: <a href="https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/vpe-advisor/SKILL.md">Source</a></span>
 </div>
 
 <div class="install-banner" markdown>
@@ -210,21 +210,21 @@ python ../../skills/vpe-advisor/scripts/eng_team_structure_designer.py team.json
 
 ## Adjacent Skills
 
-- [`skills/cto-advisor`](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/cto-advisor) — Architecture, scaling cliffs, tech debt strategy (CTO decides what to build; VPE decides how to ship)
-- [`skills/chro-advisor`](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/chro-advisor) — Hiring systems (ladders, bands, leveling rubrics company-wide); VPE owns eng-specific funnel execution
-- [`skills/coo-advisor`](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/coo-advisor) — Operating cadence company-wide; VPE owns eng-specific cadence
-- [`engineering/slo-architect`](https://github.com/alirezarezvani/claude-skills/tree/main/engineering/slo-architect) — SLO design (tactical; VPE owns the policy that SLOs are required)
-- [`engineering/chaos-engineering`](https://github.com/alirezarezvani/claude-skills/tree/main/engineering/chaos-engineering) — Chaos experiment design (tactical resilience)
-- [`engineering/feature-flags-architect`](https://github.com/alirezarezvani/claude-skills/tree/main/engineering/feature-flags-architect) — Progressive delivery (tactical deployment)
-- [`engineering/kubernetes-operator`](https://github.com/alirezarezvani/claude-skills/tree/main/engineering/kubernetes-operator) — K8s operator pattern (tactical infra)
+- [`skills/cto-advisor`](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/cto-advisor) — Architecture, scaling cliffs, tech debt strategy (CTO decides what to build; VPE decides how to ship)
+- [`skills/chro-advisor`](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/chro-advisor) — Hiring systems (ladders, bands, leveling rubrics company-wide); VPE owns eng-specific funnel execution
+- [`skills/coo-advisor`](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/coo-advisor) — Operating cadence company-wide; VPE owns eng-specific cadence
+- [`engineering/slo-architect`](https://github.com/ciciliaETH/claude-skills/tree/main/engineering/slo-architect) — SLO design (tactical; VPE owns the policy that SLOs are required)
+- [`engineering/chaos-engineering`](https://github.com/ciciliaETH/claude-skills/tree/main/engineering/chaos-engineering) — Chaos experiment design (tactical resilience)
+- [`engineering/feature-flags-architect`](https://github.com/ciciliaETH/claude-skills/tree/main/engineering/feature-flags-architect) — Progressive delivery (tactical deployment)
+- [`engineering/kubernetes-operator`](https://github.com/ciciliaETH/claude-skills/tree/main/engineering/kubernetes-operator) — K8s operator pattern (tactical infra)
 - `cs-engineering-lead` agent — Day-to-day incident + on-call coordination (VPE owns the operating model that engineering-lead executes)
 
 ## References
 
-- [delivery_throughput.md](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/vpe-advisor/references/delivery_throughput.md) — Full DORA framework + 4 common bottlenecks + what to fix first + anti-patterns
-- [engineering_hiring_funnel.md](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/vpe-advisor/references/engineering_hiring_funnel.md) — 7-stage funnel + conversion benchmarks + common leakage + sourcing channel diversification + technical interview design
-- [eng_team_structure.md](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/vpe-advisor/references/eng_team_structure.md) — Squad/chapter/tribe model + headcount-to-structure map + Conway's Law + EM-vs-tech-lead split + span-of-control
-- [production_discipline.md](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/vpe-advisor/references/production_discipline.md) — On-call rotation design + incident response + blameless postmortem culture + deployment cadence + SLO discipline integration
+- [delivery_throughput.md](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/vpe-advisor/references/delivery_throughput.md) — Full DORA framework + 4 common bottlenecks + what to fix first + anti-patterns
+- [engineering_hiring_funnel.md](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/vpe-advisor/references/engineering_hiring_funnel.md) — 7-stage funnel + conversion benchmarks + common leakage + sourcing channel diversification + technical interview design
+- [eng_team_structure.md](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/vpe-advisor/references/eng_team_structure.md) — Squad/chapter/tribe model + headcount-to-structure map + Conway's Law + EM-vs-tech-lead split + span-of-control
+- [production_discipline.md](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/vpe-advisor/references/production_discipline.md) — On-call rotation design + incident response + blameless postmortem culture + deployment cadence + SLO discipline integration
 
 ---
 

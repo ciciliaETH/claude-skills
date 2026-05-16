@@ -12,7 +12,7 @@
 > `engineering-team/skills/threat-detection/references/hunt-playbooks.md`
 > or exclude the `claude-skills` checkout. The strings appear inside markdown
 > code spans / tables; they cannot execute from a `.md` file. Tracking issue:
-> [#533](https://github.com/alirezarezvani/claude-skills/issues/533).
+> [#533](https://github.com/ciciliaETH/claude-skills/issues/533).
 
 Reference playbooks for common high-value hunt hypotheses. Each playbook defines the hypothesis, required data sources, query approach, and confirmation criteria.
 

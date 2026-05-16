@@ -8,7 +8,7 @@ description: "General Counsel advisory for startups: contract review (MSA, SaaS,
 <div class="page-meta" markdown>
 <span class="meta-badge">:material-account-tie: C-Level Advisory</span>
 <span class="meta-badge">:material-identifier: `general-counsel-advisor`</span>
-<span class="meta-badge">:material-github: <a href="https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/general-counsel-advisor/SKILL.md">Source</a></span>
+<span class="meta-badge">:material-github: <a href="https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/general-counsel-advisor/SKILL.md">Source</a></span>
 </div>
 
 <div class="install-banner" markdown>
@@ -144,17 +144,17 @@ See `references/ip_and_regulatory.md` for sequencing.
 
 ## Adjacent Skills
 
-- [`skills/ciso-advisor`](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/ciso-advisor) — Compliance overlap (SOC 2, ISO 27001, HIPAA technical safeguards)
-- [`skills/cfo-advisor`](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/cfo-advisor) — Term sheet → dilution math
-- [`skills/ma-playbook`](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/ma-playbook) — Acquisition agreements, integration playbooks
-- [`ra-qm-team`](https://github.com/alirezarezvani/claude-skills/tree/main/ra-qm-team) — ISO 13485, MDR, FDA 510(k), GDPR execution
-- [`gc-review/SKILL.md`](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/c-level-agents/skills/gc-review/SKILL.md) — `/cs:gc-review` slash command
+- [`skills/ciso-advisor`](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/ciso-advisor) — Compliance overlap (SOC 2, ISO 27001, HIPAA technical safeguards)
+- [`skills/cfo-advisor`](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/cfo-advisor) — Term sheet → dilution math
+- [`skills/ma-playbook`](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/ma-playbook) — Acquisition agreements, integration playbooks
+- [`ra-qm-team`](https://github.com/ciciliaETH/claude-skills/tree/main/ra-qm-team) — ISO 13485, MDR, FDA 510(k), GDPR execution
+- [`gc-review/SKILL.md`](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/c-level-agents/skills/gc-review/SKILL.md) — `/cs:gc-review` slash command
 
 ## References
 
-- [contracts_playbook.md](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/general-counsel-advisor/references/contracts_playbook.md) — Standard contracts, clause checklist, common founder traps
-- [ip_and_regulatory.md](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/general-counsel-advisor/references/ip_and_regulatory.md) — IP protection + regulatory landscape mapping
-- [term_sheet_decoder.md](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/general-counsel-advisor/references/term_sheet_decoder.md) — Term sheet glossary + founder-friendly defaults + pushback strategies
+- [contracts_playbook.md](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/general-counsel-advisor/references/contracts_playbook.md) — Standard contracts, clause checklist, common founder traps
+- [ip_and_regulatory.md](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/general-counsel-advisor/references/ip_and_regulatory.md) — IP protection + regulatory landscape mapping
+- [term_sheet_decoder.md](https://github.com/ciciliaETH/claude-skills/tree/main/c-level-advisor/skills/general-counsel-advisor/references/term_sheet_decoder.md) — Term sheet glossary + founder-friendly defaults + pushback strategies
 
 ---
 

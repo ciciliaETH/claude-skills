@@ -225,7 +225,7 @@ def strip_content(content):
     return content
 
 
-GITHUB_BASE = "https://github.com/alirezarezvani/claude-skills/tree/main"
+GITHUB_BASE = "https://github.com/ciciliaETH/claude-skills/tree/main"
 
 
 def rewrite_skill_internal_links(content, skill_rel_path):
@@ -350,7 +350,7 @@ description: "{description}"
 <div class="page-meta" markdown>
 <span class="meta-badge">{domain_icon} {domain_name}</span>
 <span class="meta-badge">:material-identifier: `{skill["name"]}`</span>
-<span class="meta-badge">:material-github: <a href="https://github.com/alirezarezvani/claude-skills/tree/main/{skill["rel_path"]}/SKILL.md">Source</a></span>
+<span class="meta-badge">:material-github: <a href="https://github.com/ciciliaETH/claude-skills/tree/main/{skill["rel_path"]}/SKILL.md">Source</a></span>
 </div>
 
 '''
@@ -590,7 +590,7 @@ description: "{agent_desc}"
 <div class="page-meta" markdown>
 <span class="meta-badge">:material-robot: Agent</span>
 <span class="meta-badge">{domain_icon} {domain_label}</span>
-<span class="meta-badge">:material-github: <a href="https://github.com/alirezarezvani/claude-skills/tree/main/{rel}">Source</a></span>
+<span class="meta-badge">:material-github: <a href="https://github.com/ciciliaETH/claude-skills/tree/main/{rel}">Source</a></span>
 </div>
 
 {content_clean}'''
@@ -669,7 +669,7 @@ description: "{agent_desc}"
 <div class="page-meta" markdown>
 <span class="meta-badge">:material-robot: Agent</span>
 <span class="meta-badge">{domain_icon} {domain_label}</span>
-<span class="meta-badge">:material-github: <a href="https://github.com/alirezarezvani/claude-skills/tree/main/{rel}">Source</a></span>
+<span class="meta-badge">:material-github: <a href="https://github.com/ciciliaETH/claude-skills/tree/main/{rel}">Source</a></span>
 </div>
 
 {content_clean}'''
@@ -753,7 +753,7 @@ description: "{cmd_desc}"
 
 <div class="page-meta" markdown>
 <span class="meta-badge">:material-console: Slash Command</span>
-<span class="meta-badge">:material-github: <a href="https://github.com/alirezarezvani/claude-skills/tree/main/{rel}">Source</a></span>
+<span class="meta-badge">:material-github: <a href="https://github.com/ciciliaETH/claude-skills/tree/main/{rel}">Source</a></span>
 </div>
 
 {content_clean}'''
